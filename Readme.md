@@ -27,7 +27,8 @@ Track your score in the scoreboard.
 Enjoy the game! 🎮
 
 📸 Screenshots
-(Upload images in your GitHub repo and link them here)
+![Tic-Tac-Toe Screenshot 1](https://github.com/Harshaldahake04/Tic-Tac-Toe-Game/blob/main/Screenshot%202025-03-29%20213457.png?raw=true)  
+![Tic-Tac-Toe Screenshot 2](https://github.com/Harshaldahake04/Tic-Tac-Toe-Game/blob/main/Screenshot%202025-03-29%20213518.png?raw=true)  
 
 
 📜 License
